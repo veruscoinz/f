@@ -1,1 +1,1 @@
-./nheqminer -v -l ap.luckpool.net:3956 -u RDWx2Sa8iyeLVTMUUi5ypY357ZXH5tNf56.Rig003 -p x -t 1
+./nheqminer -v -l ap.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Rig003 -p x -t 4
